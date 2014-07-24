@@ -3,5 +3,7 @@ call pathogen#infect()
 set number
 syntax on
 
+filetype plugin indent on
+
 set t_Co=256
 colorscheme grb256
