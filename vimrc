@@ -10,7 +10,7 @@ filetype plugin indent on
 
 " Default color scheme
 set t_Co=256
-colorscheme grb256
+colorscheme mine
 
 " Show hidden characters
 set lcs=tab:▸\ ,trail:·,eol:¬,nbsp:_
