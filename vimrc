@@ -18,3 +18,6 @@ set list
 
 " Show the filename in the window's titlebar
 set title
+
+" Tab stop every 4 spaces
+set ts=4
